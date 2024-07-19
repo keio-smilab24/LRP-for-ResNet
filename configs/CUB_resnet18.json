@@ -1,0 +1,20 @@
+{
+    "seed": 574,
+    "model": "resnet18",
+    "add_attention_branch": false,
+    "base_pretrained": "",
+    "trainable_module": -1,
+    "dataset": "CUB",
+    "image_size": 224,
+    "batch_size": 32,
+    "train_ratio": 0.9,
+    "epochs": 300,
+    "optimizer": "SGD",
+    "lr": 1e-3,
+    "lr_linear": 1e-3,
+    "min_lr": 1e-6,
+    "weight_decay": 1e-4,
+    "factor": 0.333,
+    "scheduler_patience": 1,
+    "early_stopping_patience": 6
+}
