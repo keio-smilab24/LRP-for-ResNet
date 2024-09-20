@@ -1,4 +1,4 @@
-We use ResNet50 trained on CUB for CUB experiments. Download them from [here]() and put them into this (checkpoints/) directory.
+We use ResNet50 trained on CUB for CUB experiments. Download them from [here](https://github.com/keio-smilab24/LRP-for-ResNet/releases) and put them into this (checkpoints/) directory.
 
 ### Structure
 Download models & place them as follows:
